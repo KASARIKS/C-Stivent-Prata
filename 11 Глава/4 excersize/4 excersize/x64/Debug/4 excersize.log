@@ -1,0 +1,3 @@
+﻿  mytime.cpp
+C:\Users\golov\Desktop\C++, Stiven Prata\11 Глава\4 excersize\4 excersize\mytime.cpp(55,20): warning C4244: инициализация: преобразование "double" в "long", возможна потеря данных
+  4 excersize.vcxproj -> C:\Users\golov\Desktop\C++, Stiven Prata\11 Глава\4 excersize\x64\Debug\4 excersize.exe

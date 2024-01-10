@@ -1,0 +1,3 @@
+Test string of file
+Second test string
+1

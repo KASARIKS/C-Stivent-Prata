@@ -1,0 +1,6 @@
+Target distance: 0, Step size: 1
+After 0 steps object has next cords: 
+(x,y) = (0, 0)
+ or
+(m,a) = (0, 0)
+Average distance on 1 step = -nan(ind)

@@ -1,0 +1,7 @@
+﻿  1 question.cpp
+  Stonewt.cpp
+C:\Users\golov\Desktop\C++, Stiven Prata\11 Глава\1 question\1 question\Stonewt.cpp(20,17): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\golov\Desktop\C++, Stiven Prata\11 Глава\1 question\1 question\Stonewt.cpp(50,17): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\golov\Desktop\C++, Stiven Prata\11 Глава\1 question\1 question\Stonewt.cpp(52,30): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
+  Создание кода...
+  1 question.vcxproj -> C:\Users\golov\Desktop\C++, Stiven Prata\11 Глава\1 question\x64\Debug\1 question.exe
