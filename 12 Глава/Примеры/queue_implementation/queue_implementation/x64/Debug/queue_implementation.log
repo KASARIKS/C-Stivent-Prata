@@ -1,0 +1,5 @@
+﻿  queue.cpp
+  queue_implementation.cpp
+C:\Users\golov\Desktop\C++, Stiven Prata\12 Глава\Примеры\queue_implementation\queue_implementation\queue_implementation.cpp(17,25): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Создание кода...
+  queue_implementation.vcxproj -> C:\Users\golov\Desktop\C++, Stiven Prata\12 Глава\Примеры\queue_implementation\x64\Debug\queue_implementation.exe
