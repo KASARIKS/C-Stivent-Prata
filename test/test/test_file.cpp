@@ -1,6 +1,12 @@
 #include "test_header.h"
 namespace test_library {
-	void test_foo(std::string message) {
-		std::cout << message << std::endl;
+	void A::PrintSpecial() 
+	{
+		std::cout << value << std::endl;
+	}
+
+	void B::PrintSpecial()
+	{
+		std::cout << GetValue() + salt << std::endl;
 	}
 }
