@@ -1,25 +1,33 @@
 ﻿#include <iostream>
-#include "test_header.h"
 
-int main(void) {
-	using namespace test_library;
+void calculateSumAndAverage(int* array, int size, int* sum, double* average) {
+    *sum = 0;
+    for (int i = 0; i < size; i++) {
+        *sum += array[i];
+    }
+    *average = static_cast<double>(*sum) / size;
+}
 
-	test_library::A first(11);
-	first.PrintSpecial();
-	test_library::B second(11, 3);
-	second.PrintSpecial();
+int main() {
+    setlocale(LC_ALL, "ru");
+    int size;
+    std::cout << "Введите размер массива: ";
+    std::cin >> size;
 
-	std::cout << std::endl;
-	std::cout << "Loop of A and B classes:" << std::endl;
-	
-	// Polimorphism
-	test_library::A *test_classes[4] = { new A(12), new B(12, 2), new A(13), new B(13, 3)};
-	for (int i = 0; i < 4; ++i)
-		test_classes[i]->PrintSpecial();
+    int* array = new int[size];
+    std::cout << "Введите элементы массива: ";
+    for (int i = 0; i < size; i++) {
+        std::cin >> array[i];
+    }
 
-	// Free memory
-	for (int i = 0; i < 4; ++i)
-		delete test_classes[i];
+    int sum;
+    double average;
+    calculateSumAndAverage(array, size, &sum, &average);
 
-	return 0;
+    std::cout << "Сумма элементов массива: " << sum << std::endl;
+    std::cout << "Среднее значение элементов массива: " << average << std::endl;
+
+    delete[] array;
+
+    return 0;
 }

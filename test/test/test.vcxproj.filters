@@ -18,13 +18,5 @@
     <ClCompile Include="test.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
-    <ClCompile Include="test_file.cpp">
-      <Filter>Исходные файлы</Filter>
-    </ClCompile>
-  </ItemGroup>
-  <ItemGroup>
-    <ClInclude Include="test_header.h">
-      <Filter>Файлы заголовков</Filter>
-    </ClInclude>
   </ItemGroup>
 </Project>

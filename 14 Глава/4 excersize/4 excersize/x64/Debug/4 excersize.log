@@ -1,0 +1,6 @@
+﻿  4 excersize.cpp
+C:\Users\golov\Desktop\C++, Stiven Prata\14 Глава\4 excersize\4 excersize\4 excersize.cpp(13,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  People.cpp
+C:\Users\golov\Desktop\C++, Stiven Prata\14 Глава\4 excersize\4 excersize\People.cpp(43,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Создание кода...
+  4 excersize.vcxproj -> C:\Users\golov\Desktop\C++, Stiven Prata\14 Глава\4 excersize\x64\Debug\4 excersize.exe
