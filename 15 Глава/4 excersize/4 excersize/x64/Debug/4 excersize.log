@@ -1,0 +1,18 @@
+﻿  sales.cpp
+C:\Users\golov\Desktop\C++, Stiven Prata\15 Глава\4 excersize\4 excersize\sales.h(21,63): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+  (компиляция исходного файла "sales.cpp")
+  
+C:\Users\golov\Desktop\C++, Stiven Prata\15 Глава\4 excersize\4 excersize\sales.h(22,58): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+  (компиляция исходного файла "sales.cpp")
+  
+C:\Users\golov\Desktop\C++, Stiven Prata\15 Глава\4 excersize\4 excersize\sales.h(45,63): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+  (компиляция исходного файла "sales.cpp")
+  
+C:\Users\golov\Desktop\C++, Stiven Prata\15 Глава\4 excersize\4 excersize\sales.h(46,58): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+  (компиляция исходного файла "sales.cpp")
+  
+C:\Users\golov\Desktop\C++, Stiven Prata\15 Глава\4 excersize\4 excersize\sales.cpp(26,61): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+C:\Users\golov\Desktop\C++, Stiven Prata\15 Глава\4 excersize\4 excersize\sales.cpp(33,56): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+C:\Users\golov\Desktop\C++, Stiven Prata\15 Глава\4 excersize\4 excersize\sales.cpp(56,68): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+C:\Users\golov\Desktop\C++, Stiven Prata\15 Глава\4 excersize\4 excersize\sales.cpp(63,63): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+  4 excersize.vcxproj -> C:\Users\golov\Desktop\C++, Stiven Prata\15 Глава\4 excersize\x64\Debug\4 excersize.exe
